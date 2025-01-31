@@ -1,0 +1,22 @@
+Initialization::--
+
+- Core java  only interview 
+- Spring Core Interview questions
+-Spring boot :: JPA ,REST API, IOC, Annotations 
+-Project : java :: implement quicker ay transfusion ::
+- Messaging - JMS and Solace (Camel and routing)
+ 
+- Kafka : Zoo keeper , caching, partion,offset , 
+- Jenkins/GitLab :: pipeline 
+- AWS :: VPC,S3 ,
+ 
+------------------------------------------------------------------
+ 
+Project explanantion : Microservice Based Architecture : TAPI Adapter, EMIR Rule engine, mfid, 
+       Polyglot :: Microservices : multiple programming support
+ 
+Cloud eneblment: S3 ,ec2 , 
+Microservice : Communicatipon : data transfer, :: 
+System design : caching,redis,LB ….   
+Domain:: FIX,CDM,FpML,MxMl,
+    
